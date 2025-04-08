@@ -1,2 +1,2 @@
 # argoknot
-Measuring Molecular Fitness Based on Efficiency of Reactions Involved
+A network algorithm for representing reassortment among segmented viruses
