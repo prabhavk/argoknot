@@ -1,2 +1,2 @@
 # argoknot
-Networks for modeling reassortment among segmented viruses
+Networks For Modeling Reassortment Among Segmented Viruses
