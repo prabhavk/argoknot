@@ -1,2 +1,2 @@
 # argoknot
-A network algorithm for representing reassortment among segmented viruses
+Networks for modeling reassortment among segmented viruses
